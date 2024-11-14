@@ -1,0 +1,7 @@
+C:\Users\Vesna\Desktop\лаба2ураураура\задачи\bin\Debug\задачи.exe.config
+C:\Users\Vesna\Desktop\лаба2ураураура\задачи\bin\Debug\задачи.exe
+C:\Users\Vesna\Desktop\лаба2ураураура\задачи\bin\Debug\задачи.pdb
+C:\Users\Vesna\Desktop\лаба2ураураура\задачи\obj\Debug\задачи.csproj.AssemblyReference.cache
+C:\Users\Vesna\Desktop\лаба2ураураура\задачи\obj\Debug\задачи.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\лаба2ураураура\задачи\obj\Debug\задачи.exe
+C:\Users\Vesna\Desktop\лаба2ураураура\задачи\obj\Debug\задачи.pdb

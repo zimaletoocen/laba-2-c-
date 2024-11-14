@@ -1,0 +1,7 @@
+C:\Users\Vesna\Desktop\лаба2ураураура\тумаков))\bin\Debug\тумаков)).exe.config
+C:\Users\Vesna\Desktop\лаба2ураураура\тумаков))\bin\Debug\тумаков)).exe
+C:\Users\Vesna\Desktop\лаба2ураураура\тумаков))\bin\Debug\тумаков)).pdb
+C:\Users\Vesna\Desktop\лаба2ураураура\тумаков))\obj\Debug\тумаков)).csproj.AssemblyReference.cache
+C:\Users\Vesna\Desktop\лаба2ураураура\тумаков))\obj\Debug\тумаков)).csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\лаба2ураураура\тумаков))\obj\Debug\тумаков)).exe
+C:\Users\Vesna\Desktop\лаба2ураураура\тумаков))\obj\Debug\тумаков)).pdb
